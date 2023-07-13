@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/lsingerfox/ls-j4j-devcamp-js-footer#readme",
   "dependencies": {
-    "moment": "^2.29.2"
+    "moment": "^2.29.4"
   }
 }
